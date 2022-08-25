@@ -1,0 +1,100 @@
+.home1{
+    height: 200px;
+    width: 300px;
+    margin-left: 5px;   
+    border-radius: 2px;
+}
+.rentalcontainer{
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #dbdbdb;
+    display: flex;
+}
+
+.rentalcontainer:hover{
+    border-color: blue;
+}
+h2{
+    margin-left: 50px;
+}
+p{
+    margin-top:50px;
+    margin-left: -240px;
+}
+
+.popup{
+position:fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100vh;
+background-color: antiquewhite;
+display: flex;
+}
+
+.applicationpopup{
+    position:fixed;
+    top: 20%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(117, 237, 225);
+    border-color: black;
+    display: flex;
+    justify-content: center;
+}
+.closebtn{
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background-color: red;
+    font-size: large;
+    padding: 0.2%;
+
+}
+
+.detailedimg{
+    height:300px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.flex-container{
+    width: 50%;
+    height: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.detailscontainer{
+    text-align:left;
+    margin-left: 60px;
+    margin-right: 80px;
+}
+
+.applynow{
+    margin-top: 100px;
+}
+
+.submitbutton{
+    margin-top: 40px;
+}
+
+label{
+    display: list-item;  
+    list-style: none;
+    margin-top: 20px;
+}
+.thirddetail{
+    margin-left: -120px ;
+}
+.listdetail{
+    margin-left: -160px !important;
+}
+form{
+    margin-top:70px;
+    margin-left:-150px;
+}

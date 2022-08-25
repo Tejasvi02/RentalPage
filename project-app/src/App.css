@@ -1,0 +1,47 @@
+
+
+.navbar{
+  background-color: rgb(22, 22, 84) !important;
+  color:white !important;
+  width: 100%;
+}
+
+.loginbutton{
+  margin-top: 10px;
+}
+
+button {
+  margin-left: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 7px;
+  background-color: rgb(4, 4, 71);
+  color: white;
+}
+
+.username{
+  margin-left: 10px;
+}
+h1{
+  color: midnightblue;
+  margin-left: 20px;
+}
+ h2{
+  color: rgb(21, 158, 40);
+ }
+.login{
+  text-align: center;
+  margin-top: 200px;
+}
+
+.utube{
+height: 600px;
+width: 1200px;
+margin-left: 150px;
+margin-top: 80px;
+}
+
+.message{
+  color:rgb(21, 158, 40);
+ text-align: center;
+}

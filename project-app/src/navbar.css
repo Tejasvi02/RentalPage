@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    position: fixed;
+}
+
+.navigation{
+    display: flex;
+margin-left: 700px; 
+}
+
+.homepage{
+margin-top: 20px;
+margin-right: 120px;
+color: white;
+text-decoration: none;
+}
+
